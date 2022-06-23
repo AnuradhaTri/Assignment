@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750682024543",
+    "firebase_url": "https://realtime-db-18b2c-default-rtdb.firebaseio.com",
+    "project_id": "realtime-db-18b2c",
+    "storage_bucket": "realtime-db-18b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750682024543:android:293fe1a889b912199349ea",
+        "android_client_info": {
+          "package_name": "com.demoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750682024543-i1f7lkp3d816ls2usunsu8mv79c2c8e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDuJjo0GzTN10VBpXftuJo5g9U_0duVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750682024543-i1f7lkp3d816ls2usunsu8mv79c2c8e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750682024543-e421a793cejhonamgqpgtrsvfciruiav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.demoProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
